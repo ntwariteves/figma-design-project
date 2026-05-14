@@ -1,2 +1,2 @@
-# figma-design-project
-look it's better
+This is my ui design created using figma
+My design screens
